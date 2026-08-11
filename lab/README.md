@@ -1,16 +1,19 @@
 # AI Engineering Lab
 
-This folder will document experiments conducted while building Project Atlas.
+The AI Engineering Lab records experiments conducted while building Project Atlas. An experiment exists to answer a concrete product or engineering question, not merely to document activity.
 
-Each experiment should eventually record:
+Each experiment should record:
 
-- Problem or question
-- Hypothesis
-- Tool or model used
-- Inputs and prompts
-- Workflow
-- Results
-- Failures and limitations
-- Evaluation
-- Lessons learned
-- Possible reuse
+- problem or question;
+- hypothesis;
+- method, tools, and inputs;
+- result and evidence;
+- failures and limitations;
+- evaluation;
+- lessons learned;
+- exit criteria and next experiment; and
+- possible reuse.
+
+## Experiments
+
+1. [Atlas Intelligence Brief manual pilot](experiments/001-intelligence-brief-manual-pilot.md) — completed pilot; v0.2 validation pending.
